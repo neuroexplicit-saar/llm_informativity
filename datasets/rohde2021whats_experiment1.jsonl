@@ -1,0 +1,78 @@
+{"item": 0, "uid": 0, "c": -1, "m": 0, "premise": "My cousin Mary was digging a hole. She used", "hypothesis": "a shovel."}
+{"item": 0, "uid": 1, "c": -1, "m": 1, "premise": "My cousin Mary was digging a hole. She used", "hypothesis": "a fork."}
+{"item": 0, "uid": 2, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to dig a hole, she was using", "hypothesis": "a shovel."}
+{"item": 0, "uid": 3, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to dig a hole, she was using", "hypothesis": "a fork."}
+{"item": 0, "uid": 4, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to dig a hole, she was using", "hypothesis": "a shovel."}
+{"item": 0, "uid": 5, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to dig a hole, she was using", "hypothesis": "a fork."}
+{"item": 1, "uid": 6, "c": -1, "m": 0, "premise": "My cousin Mary was chopping carrots. She used", "hypothesis": "a knife."}
+{"item": 1, "uid": 7, "c": -1, "m": 1, "premise": "My cousin Mary was chopping carrots. She used", "hypothesis": "a shovel."}
+{"item": 1, "uid": 8, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to chop carrots, she was using", "hypothesis": "a knife."}
+{"item": 1, "uid": 9, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to chop carrots, she was using", "hypothesis": "a shovel."}
+{"item": 1, "uid": 10, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to chop carrots, she was using", "hypothesis": "a knife."}
+{"item": 1, "uid": 11, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to chop carrots, she was using", "hypothesis": "a shovel."}
+{"item": 2, "uid": 12, "c": -1, "m": 0, "premise": "My cousin Mary was brushing teeth. She used", "hypothesis": "a toothbrush."}
+{"item": 2, "uid": 13, "c": -1, "m": 1, "premise": "My cousin Mary was brushing teeth. She used", "hypothesis": "a knife."}
+{"item": 2, "uid": 14, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to brush teeth, she was using", "hypothesis": "a toothbrush."}
+{"item": 2, "uid": 15, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to brush teeth, she was using", "hypothesis": "a knife."}
+{"item": 2, "uid": 16, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to brush teeth, she was using", "hypothesis": "a toothbrush."}
+{"item": 2, "uid": 17, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to brush teeth, she was using", "hypothesis": "a knife."}
+{"item": 3, "uid": 18, "c": -1, "m": 0, "premise": "My cousin Mary was cleaning the porch. She used", "hypothesis": "a broom."}
+{"item": 3, "uid": 19, "c": -1, "m": 1, "premise": "My cousin Mary was cleaning the porch. She used", "hypothesis": "a toothbrush."}
+{"item": 3, "uid": 20, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to clean the porch, she was using", "hypothesis": "a broom."}
+{"item": 3, "uid": 21, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to clean the porch, she was using", "hypothesis": "a toothbrush."}
+{"item": 3, "uid": 22, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to clean the porch, she was using", "hypothesis": "a broom."}
+{"item": 3, "uid": 23, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to clean the porch, she was using", "hypothesis": "a toothbrush."}
+{"item": 4, "uid": 24, "c": -1, "m": 0, "premise": "My cousin Mary was repairing brakes. She used", "hypothesis": "a wrench."}
+{"item": 4, "uid": 25, "c": -1, "m": 1, "premise": "My cousin Mary was repairing brakes. She used", "hypothesis": "a broom."}
+{"item": 4, "uid": 26, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to repair brakes, she was using", "hypothesis": "a wrench."}
+{"item": 4, "uid": 27, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to repair brakes, she was using", "hypothesis": "a broom."}
+{"item": 4, "uid": 28, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to repair brakes, she was using", "hypothesis": "a wrench."}
+{"item": 4, "uid": 29, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to repair brakes, she was using", "hypothesis": "a broom."}
+{"item": 5, "uid": 30, "c": -1, "m": 0, "premise": "My cousin Mary was securing the yacht. She used", "hypothesis": "a rope."}
+{"item": 5, "uid": 31, "c": -1, "m": 1, "premise": "My cousin Mary was securing the yacht. She used", "hypothesis": "a wrench."}
+{"item": 5, "uid": 32, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to secure the yacht, she was using", "hypothesis": "a rope."}
+{"item": 5, "uid": 33, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to secure the yacht, she was using", "hypothesis": "a wrench."}
+{"item": 5, "uid": 34, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to secure the yacht, she was using", "hypothesis": "a rope."}
+{"item": 5, "uid": 35, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to secure the yacht, she was using", "hypothesis": "a wrench."}
+{"item": 6, "uid": 36, "c": -1, "m": 0, "premise": "My cousin Mary was accessorizing a dress. She used", "hypothesis": "a belt."}
+{"item": 6, "uid": 37, "c": -1, "m": 1, "premise": "My cousin Mary was accessorizing a dress. She used", "hypothesis": "a rope."}
+{"item": 6, "uid": 38, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to accessorize a dress, she was using", "hypothesis": "a belt."}
+{"item": 6, "uid": 39, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to accessorize a dress, she was using", "hypothesis": "a rope."}
+{"item": 6, "uid": 40, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to accessorize a dress, she was using", "hypothesis": "a belt."}
+{"item": 6, "uid": 41, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to accessorize a dress, she was using", "hypothesis": "a rope."}
+{"item": 7, "uid": 42, "c": -1, "m": 0, "premise": "My cousin Mary was transporting groceries. She used", "hypothesis": "a cart."}
+{"item": 7, "uid": 43, "c": -1, "m": 1, "premise": "My cousin Mary was transporting groceries. She used", "hypothesis": "a belt."}
+{"item": 7, "uid": 44, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to transport groceries, she was using", "hypothesis": "a cart."}
+{"item": 7, "uid": 45, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to transport groceries, she was using", "hypothesis": "a belt."}
+{"item": 7, "uid": 46, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to transport groceries, she was using", "hypothesis": "a cart."}
+{"item": 7, "uid": 47, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to transport groceries, she was using", "hypothesis": "a belt."}
+{"item": 8, "uid": 48, "c": -1, "m": 0, "premise": "My cousin Mary was draining spaghetti. She used", "hypothesis": "a strainer."}
+{"item": 8, "uid": 49, "c": -1, "m": 1, "premise": "My cousin Mary was draining spaghetti. She used", "hypothesis": "a cart."}
+{"item": 8, "uid": 50, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to drain spaghetti, she was using", "hypothesis": "a strainer."}
+{"item": 8, "uid": 51, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to drain spaghetti, she was using", "hypothesis": "a cart."}
+{"item": 8, "uid": 52, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to drain spaghetti, she was using", "hypothesis": "a strainer."}
+{"item": 8, "uid": 53, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to drain spaghetti, she was using", "hypothesis": "a cart."}
+{"item": 9, "uid": 54, "c": -1, "m": 0, "premise": "My cousin Mary was wrapping a present. She used", "hypothesis": "a ribbon."}
+{"item": 9, "uid": 55, "c": -1, "m": 1, "premise": "My cousin Mary was wrapping a present. She used", "hypothesis": "a strainer."}
+{"item": 9, "uid": 56, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to wrap a present, she was using", "hypothesis": "a ribbon."}
+{"item": 9, "uid": 57, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to wrap a present, she was using", "hypothesis": "a strainer."}
+{"item": 9, "uid": 58, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to wrap a present, she was using", "hypothesis": "a ribbon."}
+{"item": 9, "uid": 59, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to wrap a present, she was using", "hypothesis": "a strainer."}
+{"item": 10, "uid": 60, "c": -1, "m": 0, "premise": "My cousin Mary was washing dishes. She used", "hypothesis": "a sponge."}
+{"item": 10, "uid": 61, "c": -1, "m": 1, "premise": "My cousin Mary was washing dishes. She used", "hypothesis": "a ribbon."}
+{"item": 10, "uid": 62, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to wash dishes, she was using", "hypothesis": "a sponge."}
+{"item": 10, "uid": 63, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to wash dishes, she was using", "hypothesis": "a ribbon."}
+{"item": 10, "uid": 64, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to wash dishes, she was using", "hypothesis": "a sponge."}
+{"item": 10, "uid": 65, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to wash dishes, she was using", "hypothesis": "a ribbon."}
+{"item": 11, "uid": 66, "c": -1, "m": 0, "premise": "My cousin Mary was writing a letter. She used", "hypothesis": "a pen."}
+{"item": 11, "uid": 67, "c": -1, "m": 1, "premise": "My cousin Mary was writing a letter. She used", "hypothesis": "a sponge."}
+{"item": 11, "uid": 68, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to write a letter, she was using", "hypothesis": "a pen."}
+{"item": 11, "uid": 69, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to write a letter, she was using", "hypothesis": "a sponge."}
+{"item": 11, "uid": 70, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to write a letter, she was using", "hypothesis": "a pen."}
+{"item": 11, "uid": 71, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to write a letter, she was using", "hypothesis": "a sponge."}
+{"item": 12, "uid": 72, "c": -1, "m": 0, "premise": "My cousin Mary was eating a steak. She used", "hypothesis": "a fork."}
+{"item": 12, "uid": 73, "c": -1, "m": 1, "premise": "My cousin Mary was eating a steak. She used", "hypothesis": "a pen."}
+{"item": 12, "uid": 74, "c": 0, "m": 0, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to eat a steak, she was using", "hypothesis": "a fork."}
+{"item": 12, "uid": 75, "c": 0, "m": 1, "premise": "My cousin Mary is a boring person who always does thing the way you\u2019d expect. For instance, in order to eat a steak, she was using", "hypothesis": "a pen."}
+{"item": 12, "uid": 76, "c": 1, "m": 0, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to eat a steak, she was using", "hypothesis": "a fork."}
+{"item": 12, "uid": 77, "c": 1, "m": 1, "premise": "My cousin Mary is a surprising person who never does things the way you\u2019d expect. For instance, in order to eat a steak, she was using", "hypothesis": "a pen."}
