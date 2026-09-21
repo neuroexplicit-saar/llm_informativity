@@ -1,0 +1,78 @@
+{"item": 0, "uid": 0, "c": -1, "m": 0, "premise": "My cousin Mary was digging a hole yesterday in the afternoon. She used", "hypothesis": "a shovel."}
+{"item": 0, "uid": 1, "c": -1, "m": 1, "premise": "My cousin Mary was digging a hole yesterday in the afternoon. She used", "hypothesis": "a fork."}
+{"item": 0, "uid": 2, "c": 0, "m": 0, "premise": "My cousin Mary was digging a hole yesterday in the afternoon. She was digging a hole with", "hypothesis": "a shovel."}
+{"item": 0, "uid": 3, "c": 0, "m": 1, "premise": "My cousin Mary was digging a hole yesterday in the afternoon. She was digging a hole with", "hypothesis": "a fork."}
+{"item": 0, "uid": 4, "c": 1, "m": 0, "premise": "My cousin Mary was digging a hole yesterday in the afternoon. What she was digging a hole with was", "hypothesis": "a shovel."}
+{"item": 0, "uid": 5, "c": 1, "m": 1, "premise": "My cousin Mary was digging a hole yesterday in the afternoon. What she was digging a hole with was", "hypothesis": "a fork."}
+{"item": 1, "uid": 6, "c": -1, "m": 0, "premise": "My cousin Mary was chopping carrots yesterday in the afternoon. She used", "hypothesis": "a knife."}
+{"item": 1, "uid": 7, "c": -1, "m": 1, "premise": "My cousin Mary was chopping carrots yesterday in the afternoon. She used", "hypothesis": "a shovel."}
+{"item": 1, "uid": 8, "c": 0, "m": 0, "premise": "My cousin Mary was chopping carrots yesterday in the afternoon. She was chopping carrots with", "hypothesis": "a knife."}
+{"item": 1, "uid": 9, "c": 0, "m": 1, "premise": "My cousin Mary was chopping carrots yesterday in the afternoon. She was chopping carrots with", "hypothesis": "a shovel."}
+{"item": 1, "uid": 10, "c": 1, "m": 0, "premise": "My cousin Mary was chopping carrots yesterday in the afternoon. What she was chopping carrots with was", "hypothesis": "a knife."}
+{"item": 1, "uid": 11, "c": 1, "m": 1, "premise": "My cousin Mary was chopping carrots yesterday in the afternoon. What she was chopping carrots with was", "hypothesis": "a shovel."}
+{"item": 2, "uid": 12, "c": -1, "m": 0, "premise": "My cousin Mary was brushing teeth yesterday in the afternoon. She used", "hypothesis": "a toothbrush."}
+{"item": 2, "uid": 13, "c": -1, "m": 1, "premise": "My cousin Mary was brushing teeth yesterday in the afternoon. She used", "hypothesis": "a knife."}
+{"item": 2, "uid": 14, "c": 0, "m": 0, "premise": "My cousin Mary was brushing teeth yesterday in the afternoon. She was brushing teeth with", "hypothesis": "a toothbrush."}
+{"item": 2, "uid": 15, "c": 0, "m": 1, "premise": "My cousin Mary was brushing teeth yesterday in the afternoon. She was brushing teeth with", "hypothesis": "a knife."}
+{"item": 2, "uid": 16, "c": 1, "m": 0, "premise": "My cousin Mary was brushing teeth yesterday in the afternoon. What she was brushing teeth with was", "hypothesis": "a toothbrush."}
+{"item": 2, "uid": 17, "c": 1, "m": 1, "premise": "My cousin Mary was brushing teeth yesterday in the afternoon. What she was brushing teeth with was", "hypothesis": "a knife."}
+{"item": 3, "uid": 18, "c": -1, "m": 0, "premise": "My cousin Mary was cleaning the porch yesterday in the afternoon. She used", "hypothesis": "a broom."}
+{"item": 3, "uid": 19, "c": -1, "m": 1, "premise": "My cousin Mary was cleaning the porch yesterday in the afternoon. She used", "hypothesis": "a toothbrush."}
+{"item": 3, "uid": 20, "c": 0, "m": 0, "premise": "My cousin Mary was cleaning the porch yesterday in the afternoon. She was cleaning the porch with", "hypothesis": "a broom."}
+{"item": 3, "uid": 21, "c": 0, "m": 1, "premise": "My cousin Mary was cleaning the porch yesterday in the afternoon. She was cleaning the porch with", "hypothesis": "a toothbrush."}
+{"item": 3, "uid": 22, "c": 1, "m": 0, "premise": "My cousin Mary was cleaning the porch yesterday in the afternoon. What she was cleaning the porch with was", "hypothesis": "a broom."}
+{"item": 3, "uid": 23, "c": 1, "m": 1, "premise": "My cousin Mary was cleaning the porch yesterday in the afternoon. What she was cleaning the porch with was", "hypothesis": "a toothbrush."}
+{"item": 4, "uid": 24, "c": -1, "m": 0, "premise": "My cousin Mary was repairing brakes yesterday in the afternoon. She used", "hypothesis": "a wrench."}
+{"item": 4, "uid": 25, "c": -1, "m": 1, "premise": "My cousin Mary was repairing brakes yesterday in the afternoon. She used", "hypothesis": "a broom."}
+{"item": 4, "uid": 26, "c": 0, "m": 0, "premise": "My cousin Mary was repairing brakes yesterday in the afternoon. She was repairing brakes with", "hypothesis": "a wrench."}
+{"item": 4, "uid": 27, "c": 0, "m": 1, "premise": "My cousin Mary was repairing brakes yesterday in the afternoon. She was repairing brakes with", "hypothesis": "a broom."}
+{"item": 4, "uid": 28, "c": 1, "m": 0, "premise": "My cousin Mary was repairing brakes yesterday in the afternoon. What she was repairing brakes with was", "hypothesis": "a wrench."}
+{"item": 4, "uid": 29, "c": 1, "m": 1, "premise": "My cousin Mary was repairing brakes yesterday in the afternoon. What she was repairing brakes with was", "hypothesis": "a broom."}
+{"item": 5, "uid": 30, "c": -1, "m": 0, "premise": "My cousin Mary was securing the yacht yesterday in the afternoon. She used", "hypothesis": "a rope."}
+{"item": 5, "uid": 31, "c": -1, "m": 1, "premise": "My cousin Mary was securing the yacht yesterday in the afternoon. She used", "hypothesis": "a wrench."}
+{"item": 5, "uid": 32, "c": 0, "m": 0, "premise": "My cousin Mary was securing the yacht yesterday in the afternoon. She was securing the yacht with", "hypothesis": "a rope."}
+{"item": 5, "uid": 33, "c": 0, "m": 1, "premise": "My cousin Mary was securing the yacht yesterday in the afternoon. She was securing the yacht with", "hypothesis": "a wrench."}
+{"item": 5, "uid": 34, "c": 1, "m": 0, "premise": "My cousin Mary was securing the yacht yesterday in the afternoon. What she was securing the yacht with was", "hypothesis": "a rope."}
+{"item": 5, "uid": 35, "c": 1, "m": 1, "premise": "My cousin Mary was securing the yacht yesterday in the afternoon. What she was securing the yacht with was", "hypothesis": "a wrench."}
+{"item": 6, "uid": 36, "c": -1, "m": 0, "premise": "My cousin Mary was accessorizing a dress yesterday in the afternoon. She used", "hypothesis": "a belt."}
+{"item": 6, "uid": 37, "c": -1, "m": 1, "premise": "My cousin Mary was accessorizing a dress yesterday in the afternoon. She used", "hypothesis": "a rope."}
+{"item": 6, "uid": 38, "c": 0, "m": 0, "premise": "My cousin Mary was accessorizing a dress yesterday in the afternoon. She was accessorizing a dress with", "hypothesis": "a belt."}
+{"item": 6, "uid": 39, "c": 0, "m": 1, "premise": "My cousin Mary was accessorizing a dress yesterday in the afternoon. She was accessorizing a dress with", "hypothesis": "a rope."}
+{"item": 6, "uid": 40, "c": 1, "m": 0, "premise": "My cousin Mary was accessorizing a dress yesterday in the afternoon. What she was accessorizing a dress with was", "hypothesis": "a belt."}
+{"item": 6, "uid": 41, "c": 1, "m": 1, "premise": "My cousin Mary was accessorizing a dress yesterday in the afternoon. What she was accessorizing a dress with was", "hypothesis": "a rope."}
+{"item": 7, "uid": 42, "c": -1, "m": 0, "premise": "My cousin Mary was transporting groceries yesterday in the afternoon. She used", "hypothesis": "a cart."}
+{"item": 7, "uid": 43, "c": -1, "m": 1, "premise": "My cousin Mary was transporting groceries yesterday in the afternoon. She used", "hypothesis": "a belt."}
+{"item": 7, "uid": 44, "c": 0, "m": 0, "premise": "My cousin Mary was transporting groceries yesterday in the afternoon. She was transporting groceries with", "hypothesis": "a cart."}
+{"item": 7, "uid": 45, "c": 0, "m": 1, "premise": "My cousin Mary was transporting groceries yesterday in the afternoon. She was transporting groceries with", "hypothesis": "a belt."}
+{"item": 7, "uid": 46, "c": 1, "m": 0, "premise": "My cousin Mary was transporting groceries yesterday in the afternoon. What she was transporting groceries with was", "hypothesis": "a cart."}
+{"item": 7, "uid": 47, "c": 1, "m": 1, "premise": "My cousin Mary was transporting groceries yesterday in the afternoon. What she was transporting groceries with was", "hypothesis": "a belt."}
+{"item": 8, "uid": 48, "c": -1, "m": 0, "premise": "My cousin Mary was draining spaghetti yesterday in the afternoon. She used", "hypothesis": "a strainer."}
+{"item": 8, "uid": 49, "c": -1, "m": 1, "premise": "My cousin Mary was draining spaghetti yesterday in the afternoon. She used", "hypothesis": "a cart."}
+{"item": 8, "uid": 50, "c": 0, "m": 0, "premise": "My cousin Mary was draining spaghetti yesterday in the afternoon. She was draining spaghetti with", "hypothesis": "a strainer."}
+{"item": 8, "uid": 51, "c": 0, "m": 1, "premise": "My cousin Mary was draining spaghetti yesterday in the afternoon. She was draining spaghetti with", "hypothesis": "a cart."}
+{"item": 8, "uid": 52, "c": 1, "m": 0, "premise": "My cousin Mary was draining spaghetti yesterday in the afternoon. What she was draining spaghetti with was", "hypothesis": "a strainer."}
+{"item": 8, "uid": 53, "c": 1, "m": 1, "premise": "My cousin Mary was draining spaghetti yesterday in the afternoon. What she was draining spaghetti with was", "hypothesis": "a cart."}
+{"item": 9, "uid": 54, "c": -1, "m": 0, "premise": "My cousin Mary was wrapping a present yesterday in the afternoon. She used", "hypothesis": "a ribbon."}
+{"item": 9, "uid": 55, "c": -1, "m": 1, "premise": "My cousin Mary was wrapping a present yesterday in the afternoon. She used", "hypothesis": "a strainer."}
+{"item": 9, "uid": 56, "c": 0, "m": 0, "premise": "My cousin Mary was wrapping a present yesterday in the afternoon. She was wrapping a present with", "hypothesis": "a ribbon."}
+{"item": 9, "uid": 57, "c": 0, "m": 1, "premise": "My cousin Mary was wrapping a present yesterday in the afternoon. She was wrapping a present with", "hypothesis": "a strainer."}
+{"item": 9, "uid": 58, "c": 1, "m": 0, "premise": "My cousin Mary was wrapping a present yesterday in the afternoon. What she was wrapping a present with was", "hypothesis": "a ribbon."}
+{"item": 9, "uid": 59, "c": 1, "m": 1, "premise": "My cousin Mary was wrapping a present yesterday in the afternoon. What she was wrapping a present with was", "hypothesis": "a strainer."}
+{"item": 10, "uid": 60, "c": -1, "m": 0, "premise": "My cousin Mary was washing dishes yesterday in the afternoon. She used", "hypothesis": "a sponge."}
+{"item": 10, "uid": 61, "c": -1, "m": 1, "premise": "My cousin Mary was washing dishes yesterday in the afternoon. She used", "hypothesis": "a ribbon."}
+{"item": 10, "uid": 62, "c": 0, "m": 0, "premise": "My cousin Mary was washing dishes yesterday in the afternoon. She was washing dishes with", "hypothesis": "a sponge."}
+{"item": 10, "uid": 63, "c": 0, "m": 1, "premise": "My cousin Mary was washing dishes yesterday in the afternoon. She was washing dishes with", "hypothesis": "a ribbon."}
+{"item": 10, "uid": 64, "c": 1, "m": 0, "premise": "My cousin Mary was washing dishes yesterday in the afternoon. What she was washing dishes with was", "hypothesis": "a sponge."}
+{"item": 10, "uid": 65, "c": 1, "m": 1, "premise": "My cousin Mary was washing dishes yesterday in the afternoon. What she was washing dishes with was", "hypothesis": "a ribbon."}
+{"item": 11, "uid": 66, "c": -1, "m": 0, "premise": "My cousin Mary was writing a letter yesterday in the afternoon. She used", "hypothesis": "a pen."}
+{"item": 11, "uid": 67, "c": -1, "m": 1, "premise": "My cousin Mary was writing a letter yesterday in the afternoon. She used", "hypothesis": "a sponge."}
+{"item": 11, "uid": 68, "c": 0, "m": 0, "premise": "My cousin Mary was writing a letter yesterday in the afternoon. She was writing a letter with", "hypothesis": "a pen."}
+{"item": 11, "uid": 69, "c": 0, "m": 1, "premise": "My cousin Mary was writing a letter yesterday in the afternoon. She was writing a letter with", "hypothesis": "a sponge."}
+{"item": 11, "uid": 70, "c": 1, "m": 0, "premise": "My cousin Mary was writing a letter yesterday in the afternoon. What she was writing a letter with was", "hypothesis": "a pen."}
+{"item": 11, "uid": 71, "c": 1, "m": 1, "premise": "My cousin Mary was writing a letter yesterday in the afternoon. What she was writing a letter with was", "hypothesis": "a sponge."}
+{"item": 12, "uid": 72, "c": -1, "m": 0, "premise": "My cousin Mary was eating a steak yesterday in the afternoon. She used", "hypothesis": "a fork."}
+{"item": 12, "uid": 73, "c": -1, "m": 1, "premise": "My cousin Mary was eating a steak yesterday in the afternoon. She used", "hypothesis": "a pen."}
+{"item": 12, "uid": 74, "c": 0, "m": 0, "premise": "My cousin Mary was eating a steak yesterday in the afternoon. She was eating a steak with", "hypothesis": "a fork."}
+{"item": 12, "uid": 75, "c": 0, "m": 1, "premise": "My cousin Mary was eating a steak yesterday in the afternoon. She was eating a steak with", "hypothesis": "a pen."}
+{"item": 12, "uid": 76, "c": 1, "m": 0, "premise": "My cousin Mary was eating a steak yesterday in the afternoon. What she was eating a steak with was", "hypothesis": "a fork."}
+{"item": 12, "uid": 77, "c": 1, "m": 1, "premise": "My cousin Mary was eating a steak yesterday in the afternoon. What she was eating a steak with was", "hypothesis": "a pen."}
